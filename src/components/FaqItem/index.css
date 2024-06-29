@@ -1,0 +1,29 @@
+/* Write your code here. */
+.list-item {
+  border: 2px solid #e4e7eb;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-family: Roboto;
+  border-radius: 15px;
+}
+
+.list-item-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.question {
+  color: #52606d;
+}
+
+.para {
+  color: #9aa5b1;
+}
